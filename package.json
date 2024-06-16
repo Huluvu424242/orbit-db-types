@@ -5,19 +5,19 @@
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lukas2005/orbit-db-types.git"
+    "url": "git+https://github.com/huluvu424242/orbit-db-types.git"
   },
   "keywords": [
     "@types",
     "typescript",
     "orbit-db"
   ],
-  "author": "lukas2005",
+  "author": "lukas2005,huluvu424242",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lukas2005/orbit-db-types/issues"
+    "url": "https://github.com/huluvu424242/orbit-db-types/issues"
   },
-  "homepage": "https://github.com/lukas2005/orbit-db-types#readme",
+  "homepage": "https://github.com/huluvu424242/orbit-db-types#readme",
   "dependencies": {
     "@types/elliptic": "^6.4.6",
     "@types/events": "^1.2.0",
